@@ -1,0 +1,412 @@
+04/24/17 09:06:51: Version 53.0.2785.124 (alps-mp-n1.mp7-0)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    c65d61b 2017-04-19 [ALPS03256195] Compositor used incorrect viewport
+
+
+03/01/17 13:30:10: Version 53.0.2785.124 (alps-trunk-n1.tk-2)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    739a12b 2017-01-18 [ALPS03167035] Make Imageeader member to allow surviving G cycles
+
+
+02/24/17 00:01:55: Version 53.0.2785.124 (alps-trunk-n1.tk-1)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    cb70df4 2016-05-13 [ALPS03164692] Get OriginalRequestURL from WebDataSource
+
+
+02/21/17 16:59:35: Version 53.0.2785.124 (alps-trunk-n1.tk-0)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium/third_party/skia.git]
+    a14feb3 2016-12-27 [ALPS03013581] N1-Migration: Multi-raster threads enhancement
+    4432639 2016-05-09 [ALPS03009013] Two Myanmar font support: Zawgyi and Unicode
+    afc5bba 2016-11-22 [ALPS03013581] Migration for multiple raster threads
+    ed14edb 2016-08-02 [ALPS02790229] Fix rounding issue
+
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    8202b1e 2016-12-19 [ALPS03080581] Change WebView APK package name
+    5d06384a 2017-02-09 [ALPS03144180] Replace NC_AUTO_SUBFRAME renderer kill with NOTREACHED
+    a955deb 2017-01-16 [ALPS03123698] N1 Migration: Page load Performance Enhacement
+    c390d53 2017-01-13 [ALPS03032647] Fix NE when MtkBooster init
+    61df7f2 2017-01-12 [ALPS03013581] Fix NE when MtkBooster init
+    222a8e7 2017-01-12 [ALPS03105689] Set a switch for sensitive logs
+    66a11d1 2017-01-12 [ALPS03105689] Sensitive log refactoring for Net
+    094683a 2017-01-12 [ALPS03105689] Add query function for sensitive log utility
+    791aa95 2017-01-09 [ALPS03013581] N1 Migration: MTK Booster
+    c0b640c 2017-01-04 [ALPS03109502] Remove sensitive log in media module
+    1a20aef 2016-12-27 [ALPS03013581] N1-Migration: enhance raster performance
+    c81081b 2015-06-10 [ALPS03076742] Avoid using flag optimize-for-size
+    36e9700 2016-12-13 [ALPS03013581] N1 Migration: IO thread priority adjustment
+    b217081 2016-11-28 [ALPS03043275] [Chromium] WML migration to 53.0.2785.124
+    31de204 2016-12-09 [ALPS03013581] N1 Performance patch Migration
+    07213e5 2016-12-09 [ALPS03013581] N1 Migration Performance patch
+    14656a8 2016-12-06 [ALPS03013581] N1 Migraton: Text reflo optimization
+    dec42b0 2016-11-18 [ALPS03022902] Move close JS callback action to AwContents::Destroy
+    939429e 2016-12-05 [ALPS02713634] [N1 Migration] Fix build errors
+    a61ea56 2016-12-02 [ALPS03014575] Chrome M53 migration for android webview
+    1b0fd1b 2016-11-28 [ALPS03009013] Two Myanmar font support: Zawgyi and Unicode
+    07af79f 2016-05-30 [ALPS02713634] [N1 Migration] Enable popup menu for ListBox
+    b6a73cf 2016-12-01 [ALPS02713634] Set labels to partition allocated memory by prctl
+    9cf890a 2016-04-12 [ALPS03014055] Enhance logs for page loading
+    33db30d 2016-04-11 [ALPS03014055] Enhance logs for client overriding URL
+    1b2f9f9 2016-05-13 [ALPS02713634] Fix uiautomator: binder buffer exhaust issue
+    c0830c1 2016-07-28 [ALPS02824676] Change zh-tw locale_paks output folder to zh-rTW
+    d074354d 2016-07-26 [ALPS03014055] Add Android strings translations for some languages
+    be4bd5d 2016-11-29 [ALPS03014055] Add Vp9.2 codec support for webm
+    926751e 2016-11-25 [ALPS03009013] Add tile memorg usage log for debug
+    7bc3ad6 2016-11-24 [ALPS03013581] Optimization for DOM Node Surf
+    25a6d32 2016-11-22 [ALPS03013581] Support multiple raster threads
+    37a1df8 2016-06-20 [ALPS03014906] Invoke GC when destroy Awcontent in GMO projects
+    0bd5c26 2016-11-22 [ALPS03009013] Enable accelerated canvas for PowerVR GPU
+    99efb3e 2016-11-22 [ALPS03032647] N-MR1 migration
+    456ecbe 2016-11-21 [ALPS03009013] Performance enhancement for canvas 2D
+    9fee3a9 2016-06-21 [ALPS03014906] use 10 layer for tile memory instead of 20
+    063a599 2016-05-13 [ALPS03014906] check-in MSE buffer tweak for GMO projects.
+    4794952 2016-11-10 [ALPS03013581] N-MR1 Migration
+    90af927 2016-11-10 [ALPS03014055] add MPEG4 simple profile mime type
+    d89c20e 2016-05-27 [ALPS03014055] Prevent showing audio/video hyperlinks in mediadocment
+    3c0811d 2016-04-29 [ALPS03014055] Add Media related log and related hanling
+    040194a 2016-11-10 [ALPS03014055]  zh-HK support of Share/ WebSerach popup
+    58488ec 2016-04-29 [ALPS03014055] Before download, guess the mime type when it's empty
+    f5f797b 2016-08-11 [ALPS03014055] Avoid invoking Mediaodec when querying vp9 capability
+    19e9b7a 2016-11-09 [ALPS03009013] GN build enhancement for parameter config
+
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium/v8.git]
+    8f8a862 2015-06-10 [ALPS03076742] Enlarge new space size for small memory device
+    a97d07e 2016-07-05 [ALPS03076742] modify v8 type info threshold rule
+    7bc499b 2016-05-13 [ALPS02713634] Set labels to partition allocated memory by prctl
+
+
+01/06/17 16:39:08: Version 51.0.2704.91 (alps-trunk-n0.tk-38)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    8f572e6 2017-01-04 [ALPS03105689] Set sensitive log flag
+
+
+01/05/17 00:01:24: Version 51.0.2704.91 (alps-trunk-n0.tk-37)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    b862b6e 2017-01-04 [ALPS03105689] Sensitive log refactoring for Net
+    642b762 2017-01-04 [ALPS03105689] Remove sensitive log in media module
+    3c4fd52 2017-01-03 [ALPS03105689] Add query function for sensitive log utility
+
+
+12/14/16 00:05:00: Version 51.0.2704.91 (alps-trunk-n0.tk-36)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    0ce78700 2016-11-18 [ALPS03022902] Move close JS callback action to AwContents::Destroy
+
+
+12/13/16 00:01:00: Version 51.0.2704.91 (alps-trunk-n0.tk-35)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    af77b4e 2016-06-28 [ALPS03052242] Don't cache GIF frames if it would be too large.
+
+
+12/01/16 00:06:50: Version 51.0.2704.91 (alps-trunk-n0.tk-34)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    e1786ed 2016-05-06 [ALPS03021120] Add AddEventXXXXOptions interfaces
+    8824d2b 2016-05-06 [ALPS03021120] change EventTarget callback APIs
+
+
+11/29/16 00:04:02: Version 51.0.2704.91 (alps-trunk-n0.tk-33)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    f1f619e 2016-11-10 [ALPS03014709] MTK Booster for Chromium
+
+
+11/15/16 00:06:43: Version 51.0.2704.91 (alps-trunk-n0.tk-32)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    9b88def 2016-09-22 [ALPS02948277] MTK Booster for Chromium
+
+
+11/01/16 00:04:16: Version 51.0.2704.91 (alps-trunk-n0.tk-31)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    04991ac 2016-10-14 [ALPS02965001] Merge google patch to support webview muti-process
+
+
+09/20/16 00:02:25: Version 51.0.2704.91 (alps-trunk-n0.tk-30)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    d6522c7 2016-05-30 [ALPS02930912] Tune down debugging emergency for clearAnimatedType()
+
+
+09/10/16 00:04:04: Version 51.0.2704.91 (alps-trunk-n0.tk-29)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    0d605d5 2016-09-08 [ALPS02902637] Fix circular dependency on DEBUG mode
+
+
+09/07/16 13:49:34: Version 51.0.2704.91 (alps-trunk-n0.tk-28)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    50e410b 2016-09-07 [ALPS02822693] Modify config file for gn build
+    b626ff9 2016-09-06 [ALPS02822693] Merge google source code for andoid 7.0 glue layer
+
+
+09/07/16 00:03:33: Version 51.0.2704.91 (alps-trunk-n0.tk-27)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    8bf037f 2016-08-30 [ALPS02869637] Adjust the soon border
+    03c4614 2016-08-29 [ALPS02870513] avoid serialize large history item
+    2f55846 2016-08-29 [ALPS02870513] Enhance smoothness of scrolling
+
+
+08/13/16 00:04:26: Version 51.0.2704.91 (alps-trunk-n0.tk-26)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    590c383 2016-08-11 [ALPS02829727] Avoid invoking MediaCodec when querying vp9 capability
+
+
+08/04/16 00:02:17: Version 51.0.2704.91 (alps-trunk-n0.tk-25)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    4290c3d 2016-08-03 [ALPS02835266] Fix MediaElement crash when setting() is not available
+
+
+08/03/16 11:49:44: Version 51.0.2704.91 (alps-trunk-n0.tk-24)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium/third_party/skia.git]
+    923213a 2016-08-02 [ALPS02790229] Fix rounding issue
+
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    7162d7e 2016-07-28 [ALPS02790333] Migrate performance optimization
+
+
+08/02/16 00:20:39: Version 51.0.2704.91 (alps-trunk-n0.tk-23)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    1e07cf4 2016-08-01 [ALPS02835225] Fix missing x-wap-profile
+
+
+07/29/16 00:01:40: Version 51.0.2704.91 (alps-trunk-n0.tk-22)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    4174075 2016-07-28 [ALPS02824676] Change zh-tw locale_paks output folder to zh-rTW
+
+
+07/28/16 15:07:43: Version 51.0.2704.91 (alps-trunk-n0.tk-21)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    c77f46b 2016-07-28 [ALPS02824029] Fix GN build errors for adding some strings translations
+    55668e9 2016-07-27 [ALPS02825092] Fix abort when GetArea overflow
+    c49f06a 2016-07-26 [ALPS02824029] Add Android strings translations for some languages
+
+
+07/23/16 00:01:35: Version 51.0.2704.91 (alps-trunk-n0.tk-20)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    ce097df 2016-07-21 [ALPS02749368] Support adjust WebView fling friction
+
+
+07/22/16 00:02:07: Version 51.0.2704.91 (alps-trunk-n0.tk-19)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    ece7b95b 2016-05-19 [ALPS02815885] Fix Browser NE due to SVG Animation
+    b412f83 2016-05-18 [ALPS02815885] Move clearAnimatedType() up the stack
+
+
+07/20/16 19:33:14: Version 51.0.2704.91 (alps-trunk-n0.tk-18)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium/third_party/skia.git]
+    858ab58 2016-05-09 [ALPS02705358] Two Myanmar font support: Zawgyi and Unicode
+    9520093 2016-04-19 [ALPS02670344] Optimization for multi-texture generator
+
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium/v8.git]
+    7828d4d 2016-07-05 [ALPS02793099] modify v8 type info threshold rule
+    9cea003 2015-12-07 [ALPS02749368] fix some v8 logs
+    35fccfc 2015-06-10 [ALPS02749368] javascript encodeURIComponent() improvement
+    40a1938 2015-06-10 [ALPS02749368] Enlarge new space size for small memory device
+    bcb42b1 2016-06-06 [ALPS02749368] optimize for-in loop for sunspider
+    3c8ba10 2015-02-04 [ALPS02749368] use platform sin(), cos()
+    075de60 2016-06-06 [ALPS02749368] modify context disposal gc criteria
+    5a8d222 2016-05-13 [ALPS02713634] Set labels to partition allocated memory by prctl
+
+
+07/15/16 20:00:32: Version 51.0.2704.91 (alps-trunk-n0.tk-17)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    2cafa98 2016-07-15 [ALPS02797957] Fix white screen to long when enter full screen
+    eb29d1e 2016-07-14 [ALPS02808162] Add Vp9.2 codec support for webm
+    e68a824 2016-07-13 [ALPS02804840] use a more general name for slim memory
+
+
+07/13/16 00:03:42: Version 51.0.2704.91 (alps-trunk-n0.tk-16)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium/v8.git]
+    70f2796 2016-07-05 [ALPS02793099] modify v8 type info threshold rule
+
+
+07/08/16 00:01:52: Version 51.0.2704.91 (alps-trunk-n0.tk-15)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    701f47e 2016-07-06 [ALPS02705358] GN build enhancement for parameter config
+    d01b11d 2016-06-20 [ALPS02761393] [N Migration] aw: Disable quota manager tests
+
+
+07/07/16 00:02:04: Version 51.0.2704.91 (alps-trunk-n0.tk-14)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    b8f994f 2016-07-04 [ALPS02790333] IO thread priority adjustment
+    ae765fc 2016-06-21 [ALPS02767160] [GMO] use 10 layer for tile memory instead of 20
+
+
+07/05/16 12:19:25: Version 51.0.2704.91 (alps-trunk-n0.tk-13)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    43dda8a 2016-07-04 [ALPS02705358] Fix refresh when scroll up/down on mobile01
+
+
+06/22/16 00:03:33: Version 51.0.2704.91 (alps-trunk-n0.tk-12)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    50c2ac7 2016-06-20 [ALPS02767160] Invoke GC when destroy AwContent in gmo projects
+    5e60f4c 2016-06-20 [ALPS02672965] [WML]Fix debug build error for 51.0.2704.91 upgrating
+
+
+06/17/16 00:01:32: Version 51.0.2704.91 (alps-trunk-n0.tk-11)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    d9fc4c4 2016-06-16 [ALPS02672965] [Android N Migration] Upgrade to 51.0.2704.91
+    9cedcb0 2016-06-15 [ALPS02705358] Add tile memorg usage log for debug
+    f00f681 2016-06-06 [ALPS02672965] [WMLSelectElement sometimes fail to trigger back event
+    d1524e7 2016-06-13 [ALPS02687022] Fix chromium API can not be called
+    212c00a 2016-06-13 [ALPS02705358] Performance enhancement for canvas 2D
+    e94e6ef 2016-06-08 [ALPS02672965] [WML]Rollback width setting
+    c5a39dd 2015-06-10 [ALPS02749368] Avoid using flag optimize-for-size
+    c6f22c7 2016-06-07 [ALPS02749368] Vellamo page load performance enhancement
+    8a031ca 2016-06-06 [ALPS02672965] [WML] WMLInputElement showes wrong BG color
+    e0b53118 2016-06-03 [ALPS02713454] [OfflinePage]Treat XHTML file as HTML
+    46663e0 2016-06-02 [ALPS02687022] Fix chromium webveiw test case failed
+    df884bf 2015-08-03 [ALPS02713634] M Migration: Fix WebviewShell testcase
+    b507e2a 2016-06-02 [ALPS02713634] Revert "Leave error description empty in AwContents"
+    9c71033 2016-05-27 [ALPS02672965] [WML] Refactor WMLSelectElement
+    486ea5d 2016-05-23 [ALPS02672965] [WML] Oilpan: Fix always used member & InlinedVisitor
+    f5bc9a3 2016-05-20 [ALPS02672965] [Android N Migration][WML] Oilpan: Revise collection usage
+    4942257 2016-05-30 [ALPS02672965] [WML] Fix build errors for debug mode
+    46258d4 2016-05-30 [ALPS02713634] [N Migration] Enable popup menu for ListBox
+    68b37b8 2016-05-27 [ALPS02736148] Prevent showing audio/video hyperlinks in mediadocment
+    68ad5bd 2016-05-26 [ALPS02687022] Fix savepage method not found in WebviewChromium
+    8e7c57b 2016-05-23 [ALPS02670344] Optimization for Text Reflo
+    6233558 2016-05-23 [ALPS02713367] Add MPEG4 SP support in browser
+    2f035b6 2016-05-23 [ALPS02670344] optimization for DOM Node Surf
+    8eab642 2016-05-20 [ALPS02713634] Disable DrawGLFunctor SupportFunctorReleasedCallback
+    793fe92 2016-05-19 [ALPS02672965] [Android N Migration] Upgrade to 51.0.2704.43
+    f016800 2016-05-16 [ALPS02672965] [Android N Migration] WML migration (Part 2)
+    d1b44e8 2016-04-13 [ALPS02672965] [Android N Migration] WML migration
+    acd54f0 2016-05-13 [ALPS02713634] Fix uiautomator: binder buffer exhaust issue
+    2c05a751 2016-05-13 [ALPS02713634] Leave error description empty in AwContents
+    8d69375 2016-05-13 [ALPS02713634] Set labels to partition allocated memory by prctl
+    549d76d 2016-05-13 [ALPS02713634] Fix bookmark thumbnail issue due to GetOriginalRequestURL()
+    563b0a3 2016-05-13 [ALPS02713367] add mime type support of mpeg4 simple profile
+    c4a89e7 2016-05-13 [ALPS02687022] Android N Migration
+    a6d5ba2 2016-05-13 [ALPS02713143] check-in MSE buffer tweak for GMO projects.
+    ff7f9a0 2016-05-09 [ALPS02687022] N Migration
+    23faf4d 2016-05-10 [ALPS02705358] Fix WebViewShell test case fail
+    6f3bcf3 2016-05-10 [ALPS02705358] Enable webgl and accelerated canvas
+    b42c0ed 2016-05-10 [ALPS02705358] Two Myanmar font support: Zawgyi and Unicode
+    d063db4 2016-05-09 [ALPS02705358] Fix the problem that could not connect to dev tool
+    60576f3 2016-04-22 [ALPS02670344] Support Multi-Raster threads
+    7d5476b 2016-05-06 [ALPS02693852] Everest browser low power improvement item
+    24fcc5a 2016-05-02 [ALPS02693852] N-preview migration for text-reflow and password
+    160a7e8 2016-05-02 [ALPS02670344] Reduce the possibility of white tiles
+    6b22ae5 2016-04-29 [ALPS02694308] modify build.gn for zh-rHK strings
+    bbaef75 2016-04-29 [ALPS02694634] check-in video auto fullscreen
+    c093866 2016-04-29 [ALPS02694324] Add Media related log and related hanling
+    f9754c8 2016-04-29 [ALPS02694322] Before download, guess the mime type when it's empty
+    2f0c920 2016-04-29 [ALPS02694308] zh-HK support of Share/ WebSerach popup
+    6b8f1a9 2016-04-29 [ALPS02693852] animated-image low power improvement
+    54dffe1 2016-04-15 [ALPS02670344] Migration for N
+    d3a485a 2016-04-12 [ALPS02451563] Enhance logs for page loading (Part2)
+    dc86e68 2016-04-12 [ALPS02440051] Enhance logs for page loading
+    fb92b9c 2016-04-11 [ALPS02430159] Failed to save offline reading
+    75d75cb 2016-04-12 [ALPS02670344] N Migration
+    6180c10 2016-04-11 [ALPS02451563] Enhance logs for client overriding URL
+
+
+06/16/16 00:04:05: Version 51.0.2704.43 (alps-trunk-n0.tk-10)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    cd19610 2016-06-15 [ALPS02705358] Add tile memorg usage log for debug
+    d766c9e 2016-06-13 [ALPS02687022] Fix chromium API can not be called
+
+
+06/15/16 00:01:34: Version 51.0.2704.43 (alps-trunk-n0.tk-9)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    71a4584 2016-06-06 [ALPS02672965] [WMLSelectElement sometimes fail to trigger back event
+    9c4279c 2016-06-13 [ALPS02705358] Performance enhancement for canvas 2D
+
+
+06/09/16 00:01:23: Version 51.0.2704.43 (alps-trunk-n0.tk-8)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    32910a4 2016-06-08 [ALPS02672965] [WML]Rollback width setting
+
+
+06/08/16 11:04:46: Version 51.0.2704.43 (alps-trunk-n0.tk-7)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    2d8fbfb 2015-06-10 [ALPS02749368] Avoid using flag optimize-for-size
+    779df56 2016-06-07 [ALPS02749368] Vellamo page load performance enhancement
+
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium/v8.git]
+    6a15a78 2015-12-07 [ALPS02749368] fix some v8 logs
+    661aaa0 2015-06-10 [ALPS02749368] javascript encodeURIComponent() improvement
+    015397e 2015-06-10 [ALPS02749368] Enlarge new space size for small memory device
+    34d5cdd 2016-06-06 [ALPS02749368] optimize for-in loop for sunspider
+    25b4bf4 2015-02-04 [ALPS02749368] use platform sin(), cos()
+
+
+06/07/16 17:01:19: Version 51.0.2704.43 (alps-trunk-n0.tk-6)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium/v8.git]
+    96623b6 2016-06-06 [ALPS02749368] modify context disposal gc criteria
+
+
+06/07/16 11:14:16: Version 51.0.2704.43 (alps-trunk-n0.tk-5)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    6f7b8d3 2016-06-06 [ALPS02672965] [WML] WMLInputElement showes wrong BG color
+    8338af1 2016-06-03 [ALPS02713454] [OfflinePage]Treat XHTML file as HTML
+    1cb1531 2016-06-02 [ALPS02687022] Fix chromium webveiw test case failed
+    3678080 2016-05-23 [ALPS02670344] Optimization for Text Reflo
+    84b733b 2016-05-23 [ALPS02670344] optimization for DOM Node Surf
+
+
+06/02/16 18:15:03: Version 51.0.2704.43 (alps-trunk-n0.tk-4)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    5788dac7 2015-08-03 [ALPS02713634] M Migration: Fix WebviewShell testcase
+    188eb2f 2016-06-02 [ALPS02713634] Revert "Leave error description empty in AwContents"
+
+
+05/31/16 11:49:52: Version 51.0.2704.43 (alps-trunk-n0.tk-3)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    ac3694d 2016-05-27 [ALPS02672965] [WML] Refactor WMLSelectElement
+    c83e7ca 2016-05-23 [ALPS02672965] [WML] Oilpan: Fix always used member & InlinedVisitor
+    b87611c 2016-05-20 [ALPS02672965] [Android N Migration][WML] Oilpan: Revise collection usage
+    dd22491 2016-05-30 [ALPS02672965] [WML] Fix build errors for debug mode
+    e7d142e 2016-05-30 [ALPS02713634] [N Migration] Enable popup menu for ListBox
+    e287dba 2016-05-27 [ALPS02736148] Prevent showing audio/video hyperlinks in mediadocment
+
+
+05/27/16 09:05:50: Version 51.0.2704.43 (alps-trunk-n0.tk-2)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    8216fca 2016-05-26 [ALPS02687022] Fix savepage method not found in WebviewChromium
+
+
+05/24/16 10:26:27: Version 51.0.2704.43 (alps-trunk-n0.tk-1)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    aa6f416 2016-05-23 [ALPS02713367] Add MPEG4 SP support in browser
+
+
+05/20/16 17:18:37: Version 51.0.2704.43 (alps-trunk-n0.tk-0)
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium/third_party/skia.git]
+    5098fa4 2016-05-09 [ALPS02705358] Two Myanmar font support: Zawgyi and Unicode
+    dd0a100 2016-04-19 [ALPS02670344] Optimization for multi-texture generator
+
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium.git]
+    af79faf 2016-05-20 [ALPS02713634] Disable DrawGLFunctor SupportFunctorReleasedCallback
+    5f450cf 2016-05-19 [ALPS02672965] [Android N Migration] Upgrade to 51.0.2704.43
+    70431db 2016-05-16 [ALPS02672965] [Android N Migration] WML migration (Part 2)
+    99a676a 2016-04-13 [ALPS02672965] [Android N Migration] WML migration
+    fc5e0ee 2016-05-13 [ALPS02713634] Fix uiautomator: binder buffer exhaust issue
+    05f7979 2016-05-13 [ALPS02713634] Leave error description empty in AwContents
+    8a33b23e 2016-05-13 [ALPS02713634] Set labels to partition allocated memory by prctl
+    e846571 2016-05-13 [ALPS02713634] Fix bookmark thumbnail issue due to GetOriginalRequestURL()
+    b280c7f 2016-05-13 [ALPS02713367] add mime type support of mpeg4 simple profile
+    67a7ba5 2016-05-13 [ALPS02687022] Android N Migration
+    215fdb6f 2016-05-13 [ALPS02713143] check-in MSE buffer tweak for GMO projects.
+    58c453a 2016-05-09 [ALPS02687022] N Migration
+    34d3873 2016-05-10 [ALPS02705358] Fix WebViewShell test case fail
+    f5c87f2b 2016-05-10 [ALPS02705358] Enable webgl and accelerated canvas
+    fb01d03 2016-05-10 [ALPS02705358] Two Myanmar font support: Zawgyi and Unicode
+    71238b3 2016-05-09 [ALPS02705358] Fix the problem that could not connect to dev tool
+    f8a1259 2016-04-22 [ALPS02670344] Support Multi-Raster threads
+    95deeb4 2016-05-06 [ALPS02693852] Everest browser low power improvement item
+    e768f0b 2016-05-02 [ALPS02693852] N-preview migration for text-reflow and password
+    ca84488 2016-05-02 [ALPS02670344] Reduce the possibility of white tiles
+    637fc73 2016-04-29 [ALPS02694308] modify build.gn for zh-rHK strings
+    021953b 2016-04-29 [ALPS02694634] check-in video auto fullscreen
+    85d375c 2016-04-29 [ALPS02694324] Add Media related log and related hanling
+    a4f4bb6 2016-04-29 [ALPS02694322] Before download, guess the mime type when it's empty
+    40d103f 2016-04-29 [ALPS02694308] zh-HK support of Share/ WebSerach popup
+    730c2c8 2016-04-29 [ALPS02693852] animated-image low power improvement
+    4650334 2016-04-15 [ALPS02670344] Migration for N
+    8f63bfe 2016-04-12 [ALPS02451563] Enhance logs for page loading (Part2)
+    d26bd54 2016-04-12 [ALPS02440051] Enhance logs for page loading
+    4569496 2016-04-11 [ALPS02430159] Failed to save offline reading
+    0fb278f 2016-04-12 [ALPS02670344] N Migration
+    7ec4eca 2016-04-11 [ALPS02451563] Enhance logs for client overriding URL
+
+  [http://yusubm@gerrit.mediatek.inc:8080/alps/chromium/v8.git]
+    8acbbb8 2016-05-13 [ALPS02713634] Set labels to partition allocated memory by prctl
+
+
+
